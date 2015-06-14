@@ -1,0 +1,104 @@
+\documentclass[a4paper]{etutez}
+\usepackage{xkeyval}
+\usepackage[turkish]{babel}
+\usepackage[latin5]{inputenc}
+\usepackage{graphicx}
+\usepackage[toc,page,titletoc]{appendix}
+\usepackage[T1]{fontenc}
+\usepackage{mathtools}
+\usepackage{epstopdf}
+\usepackage{subfigure}
+\usepackage{tabulary}
+\usepackage{listings}
+\usepackage{cite}
+\usepackage[top=4cm, bottom=2.5cm, left=4cm, right=2.5cm]{geometry}
+\usepackage{setspace}
+\usepackage{enumerate}
+\usepackage{amsmath}
+\usepackage{bm}
+
+\DeclareGraphicsExtensions{.pdf,.png,.jpg, .eps}
+\DeclareMathOperator*{\argmin}{arg\,min}
+
+\pagenumbering{roman}
+
+\thesistype{Ph.D.} %Yuksek lisans icin M.Sc. doktora icin Ph.D.
+\teztipi{Doktora}  %Tez tipini yazin
+
+\keywords{Wireless sensor networks, bandwidth, interference, transmission power control, discrete power levels, power assignment strategies, optimization, mathematical programming, energy efficiency, network lifetime}
+\anahtarsoz{Kablosuz algýlayýcý aðlar, bant geniþliði, giriþim, iletim gücü kontrolü, ayrýk güç seviyeleri, güç atama stratejileri, optimizasyon, matematiksel programlama, enerji verimliliði, að yaþam süresi}
+
+\title{ANALYZING NETWORK LIFETIME OF WIRELESS SENSOR NETWORKS WITH MATHEMATICAL PROGRAMMING}
+\baslik{KABLOSUZ ALGILAYICI AÐLARDA AÐ YAÞAM SÜRESÝNÝN MATEMATÝKSEL PROGRAMLAMA ÝLE ÝNCELENMESÝ}  % buyuk harflerle yazilmali
+
+\yazar{HÜSEYÝN ÇOTUK}    % buyuk harflerle yazilmali
+\yazarkucuk{Hüseyin ÇOTUK}    % Soyadi Buyuk harflerle yazilmali
+\enstitu{FEN BÝLÝMLERÝ} % buyuk harflerle yazilmali
+\enstitukucuk{Fen Bilimleri } % kucuk harflerle yazilmali
+\institute{Institute of Natural and Applied Sciences}
+\bolum{BÝLGÝSAYAR MÜHENDÝSLÝÐÝ } % buyuk harflerle yazilmali
+\bolumkucuk{Bilgisayar Mühendisliði } % kucuk harflerle yazilmali
+\dept{Computer Engineering}
+\supervisor{Assoc. Prof. Kemal BIÇAKCI}
+\supervisorr{Assoc. Prof. Bülent TAVLI}
+\tezyoneticisi{Doç. Dr. Kemal BIÇAKCI}
+\tezyoneticisii{Doç. Dr. Bülent TAVLI}
+\juribaskani{Doç. Dr. Hakan GÜLTEKÝN}
+\juriuyesi{Doç. Dr. Kemal BIÇAKCI}
+\juriuyesii{Doç. Dr. Bülent TAVLI}
+\juriuyesiii{Doç. Dr. Ali KARA}
+\juriuyesiiii{Yrd. Doç. Dr. Tansel ÖZYER}
+\anablmdalibsk{Doç. Dr. Erdoðan DOÐDU}
+\enstitumuduru{Prof. Dr. Necip CAMUÞÇU}
+\director{Prof. Dr. Necip CAMUÞÇU}
+\firstreader{Assoc. Prof. Kemal BIÇAKCI}
+\secondreader{Asst. Prof. Hakan GÜLTEKÝN}
+\thirdreader{Asst. Prof. Tansel ÖZYER}
+\fourthreader{Assoc. Prof. Bülent TAVLI}
+%\copyrightyear{2001}
+\submitdate{December 2013}  % buyuk harflerle yazilmali
+\tarih{ARALIK 2013}   % buyuk harflerle yazilmali
+\tarihkucuk{Aralýk 2013}   % kucuk harflerle yazilmali
+
+
+\newtheorem{thm}{Theorem}
+\newtheorem{preexam}{Example}
+\newenvironment{exam} {\begin{preexam}\rm}{\end{preexam}}
+\newtheorem{lem}{Lemma}
+\newtheorem{proprty}{Property}
+\newtheorem{cor}{Corollary}
+\newtheorem{defn}{Definition}
+\newcommand{\pe}{\preceq}
+\newcommand{\po}{\prec}
+
+
+\hyphenpenalty=5000
+\tolerance=1000
+
+\begin{document}
+
+%\titlepageMS   % Yuksek lisans tezi kapak sayfasi
+\titlepagePhD    % Doktora tezi kapak sayfasi
+%\setcounter{page}{2}
+%\signaturepageMS  % Yuksek lisans tezi imza sayfasi
+\signaturepagePhD     % Doktora tezi imza sayfasi
+\tezbildirimsayfasi    % tez bildirim sayfasi
+
+
+\begin{ozet}
+Üstlendikleri misyon ve tipik uygulamalarda görülen genel karakteristikleri itibariyle kablosuz algýlayýcý düðümler, genelde kýsýtlý kaynaklara (kullanýlacak enerji ve bant geniþliði miktarý, haberleþme mesafesi, hesaplama gücü ve bellek miktarý gibi) sahiptir. Yarý iletken, að ve malzeme bilimi teknolojilerindeki son geliþmeler sayesinde donaným ve maliyet ile ilgili kýsýtlarýn aþýlmasý, baþlangýçtaki enerji miktarýný kablosuz algýlayýcý aðlarda en kritik kaynak haline getirmiþtir. Dolayýsýyla kablosuz algýlayýcý aðlar konusunda günümüze kadar yapýlan çalýþmalar, enerji sarfiyatýný düþürerek, baþka bir deyiþle enerji verimli çözümler üreterek að yaþam süresini arttýrmak konusunda yoðunlaþmýþtýr. Bu çalýþmada kablosuz algýlayýcý aðlarda giriþim ve bant geniþliðinin að yaþam süresine etkileri incelenmiþ, bant geniþliði ihtiyacýný belirleyen parametreler tespit edilerek belli parametreler altýnda optimum çözüm için gerekli minimum bant geniþliði miktarý belirlenmiþtir. Ayrýca, kablosuz algýlayýcý aðlarda ayrýk iletim gücü kontrolü yapýldýðý durumda að yaþam süresi karakteristiði incelenmiþ, farklý güç atama stratejileri kullanýldýðýnda að yaþam süresinde meydana gelen etkiler mercek altýna alýnmýþtýr. Kullanýlan güç atama stratejileri að yaþam süresi ve bant geniþliði ihtiyaçlarý açýsýndan birbiriyle karþýlaþtýrýlmýþtýr. Bu aþamada pozisyonlama hatalarýnýn ve olasýlýksal radyo yayýlýmýnýn sonuçlara etkileri ayrýca ele alýnmýþtýr. Önceki çalýþmalarda yer alan algoritma tabanlý analiz veya deneysel ölçümlerden farklý olarak bu çalýþmada çeþitli matematiksel programlama yöntemleri kullanýlarak tasarlanan modeller sayesinde, geniþ bir yelpazede büyük bir parametre kümesi ile detaylý incelemeler yapýlmýþtýr. Alýnan sonuçlar, bant geniþliðinin að yaþam süresi üzerinde belli bir aralýkta etkili olduðunu, giriþimin ihtiyaç duyulan bant geniþliði miktarýný arttýrdýðýný, bant geniþliði gereksiniminin bir çok að ve sistem parametresine baðlý olduðunu göstermiþtir. Diðer taraftan ayrýk iletim gücü kontrolünün sürekli duruma kýyasla að yaþam süresinde azalmaya neden olduðu, iletim gücünün daha hassas ayarlanabildiði modellerde daha iyi að yaþam süresi elde edilirken, ayný zamanda daha fazla bant geniþliðine ihtiyaç duyulduðu görülmüþtür. Pozisyonlama hatalarýný tolere etmek için iletim gücünün arttýrýlmasý ile, güç kontrolündeki ayrýklaþtýrma seviyesinden kaynaklanan enerjideki kayýplarýn azaldýðý gözlenmiþtir. Buna raðmen yüksek pozisyonlama hatalarý görüldüðünde bile, iletim gücünün daha hassas ayarlanabilmesi halinde daha iyi að yaþam süresi elde edilebildiði anlaþýlmýþtýr. Ayrýk iletim gücü kontrolünde yol kaybýndan kaynaklanan fazla enerji kullanýmýnýn paket alma oranýný arttýrmasý nedeniyle bazý durumlarda uygun paket alma oraný hedeflenerek sürekli durumdan daha iyi sonuçlar alýnabileceði görülmüþtür. 
+\end{ozet}
+
+
+\begin{abstract}
+According to the needs of typical applications, wireless sensor nodes are designed to be low-cost, small-sized, and energy-efficient devices. In order to satisfy these production requirements, they generally have scarce resources like energy, bandwidth, communication range, processing power, and memory. After the limitations related to cost and hardware are met by the progress on semiconductor, network, and materials technologies; energy becomes the most critical resource for Wireless Sensor Networks (WSNs). So, recent studies about WSNs concentrated on developing energy-efficient solutions to optimize network lifetime. However, most of these studies ignored the effect of finite bandwidth and discretization of transmission power on WSNs. On the other hand, there are different types of transmission power assignment strategies studied so far, and while it is evident that more fine-tuned power assignment improves network lifetime, the net impact of these strategies remains unclear. In this study, we develop novel mathematical programming frameworks which enable us not only to examine the effects of limited bandwidth and discrete transmission power control, but also to quantify the impact and make a systematic comparison of various power assignment strategies. We analyze the network bandwidth from several aspects with various system parameters. In order to obtain optimal network lifetime with specific parameters, we expose the methodology to determine the minimum amount of required bandwidth. We also investigate the effects of the granularity of power levels on energy dissipation characteristics. Different types of power assignment strategies are analyzed by using two sets of experimental data to compare the performance of these strategies in terms of network lifetime and link bandwidth. In order to see the effects of probabilistic radio propagation, widely used log-normal shadowing path loss model is adopted into existing models. Our results show that, link bandwidth affects network lifetime within a specific range. As interference rises, the amount of required bandwidth to obtain optimum lifetime increases as well. The granularity of discrete energy consumption has a profound impact on WSN lifetime and when discretization level ascends, network lifetime generally lessens. Results expose that while more fine-grained control of transmission power improves network lifetime, it also requires much more bandwidth. 
+\end{abstract}
+
+\begin{tesekkur}
+Çalýþmalarým  boyunca  deðerli yardým ve katkýlarýyla beni yönlendiren kýymetli hocalarým Doç. Dr. Kemal BIÇAKCI ve Doç. Dr. Bülent TAVLI'ya, yine önemli tecrübelerinden faydalandýðým TOBB Ekonomi ve Teknoloji Üniversitesi Endüstri Mühendisliði Bölümü öðretim üyelerinden Doç. Dr. Hakan GÜLTEKÝN'e, kýsmi numerik analizler için hesaplama kaynaklarýndan faydalandýðým TÜBÝTAK ULAKBÝM Yüksek Baþarýmlý ve Grid Hesaplama Merkezi'ne, verdikleri kýsmi burs ile maddi destek saðlayan TÜBÝTAK BÝDEB'e, araþtýrma görevlisi arkadaþým Davut ÝNCEBACAK'a, son olarak benden desteklerini hiçbir zaman esirgemeyen eþim Seda'ya, anneme ve babama teþekkürü bir borç bilirim.
+\end{tesekkur}
+
+
+\pagestyle{plain}
+
+\makeatother

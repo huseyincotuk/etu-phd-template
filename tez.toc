@@ -1,0 +1,24 @@
+\select@language {turkish}
+\contentsline {chapter}{\hbox to\@tempdima {ÖZET\hfil }}{iv}
+\contentsline {chapter}{\hbox to\@tempdima {ABSTRACT\hfil }}{vi}
+\contentsline {chapter}{\hbox to\@tempdima {TEÞEKKÜR\hfil }}{viii}
+\contentsline {chapter}{\hbox to\@tempdima {\c SEK\.IL L\.ISTES\.I\hfil }}{xi}
+\contentsline {chapter}{\hbox to\@tempdima {TABLO L\.ISTES\.I\hfil }}{xii}
+\contentsline {chapter}{\hbox to\@tempdima {KISALTMALAR\hfil }}{xiii}
+\contentsline {chapter}{\hbox to\@tempdima {SEMBOL L\.ISTES\.I\hfil }}{xiv}
+\contentsline {chapter}{\numberline {1}G\.IR\.I\c S}{1}
+\contentsline {section}{\numberline {1.1}\c Cal\IeC {\i }\c sman\IeC {\i }n Amac\IeC {\i }}{1}
+\contentsline {section}{\numberline {1.2}\c Cal\IeC {\i }\c sman\IeC {\i }n \"Onemi}{1}
+\contentsline {section}{\numberline {1.3}Problem Tan\IeC {\i }m\IeC {\i }}{1}
+\contentsline {section}{\numberline {1.4}S\IeC {\i }n\IeC {\i }rl\IeC {\i }l\IeC {\i }klar}{1}
+\contentsline {section}{\numberline {1.5}Varsay\IeC {\i }mlar}{2}
+\contentsline {section}{\numberline {1.6}Katk\IeC {\i }lar}{2}
+\contentsline {chapter}{\numberline {2}\.ILG\.IL\.I L\.ITERAT\"UR}{3}
+\contentsline {chapter}{\numberline {3}KAVRAMSAL \c CER\c CEVE}{4}
+\contentsline {chapter}{\numberline {4}S\.ISTEM MODEL\.I}{5}
+\contentsline {chapter}{\numberline {5}BULGULAR VE DE\u GERLEND\.IRMELER}{6}
+\contentsline {chapter}{\numberline {6}SONU\c CLAR VE \"ONER\.ILER}{7}
+\contentsline {chapter}{EKLER}{17}
+\contentsline {chapter}{ \numberline {A}\"Ornek GAMS Kodu}{18}
+\contentsline {chapter}{ \numberline {B}\"Ornek MATLAB Grafik \c Cizdirme Kodu}{19}
+\contentsline {chapter}{\hbox to\@tempdima {\"OZGE\c CM\.I\c S\hfil }}{20}

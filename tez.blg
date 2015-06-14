@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/W32TeX)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: tez.aux
+The style file: ieeetr.bst
+Database file #1: kaynakca.bib
+You've used 89 entries,
+            1876 wiz_defined-function locations,
+            1041 strings with 19557 characters,
+and the built_in function-call counts, 28760 in all, are:
+= -- 2932
+> -- 1025
+< -- 2
++ -- 375
+- -- 286
+* -- 1975
+:= -- 3811
+add.period$ -- 99
+call.type$ -- 89
+change.case$ -- 89
+chr.to.int$ -- 0
+cite$ -- 89
+duplicate$ -- 1484
+empty$ -- 2746
+format.name$ -- 286
+if$ -- 7114
+int.to.chr$ -- 0
+int.to.str$ -- 89
+missing$ -- 77
+newline$ -- 280
+num.names$ -- 89
+pop$ -- 368
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1148
+stack$ -- 0
+substring$ -- 2338
+swap$ -- 673
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 310
+width$ -- 91
+write$ -- 892

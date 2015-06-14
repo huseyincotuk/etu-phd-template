@@ -1,0 +1,459 @@
+\begin{thebibliography}{10}
+
+\bibitem{CPH2008}
+Z.~Cheng, M.~Perillo, and W.~Heinzelman, ``General network lifetime and cost
+  models for evaluating sensor network deployment strategies,'' {\em IEEE
+  Trans. Mobile Computing}, vol.~7, pp.~484--497, 2008.
+
+\bibitem{EV2005}
+S.~Ergen and P.~Varaiya, ``On multi-hop routing for energy efficiency,'' {\em
+  IEEE Communications Letters}, vol.~9, pp.~880--881, 2005.
+
+\bibitem{TK2004}
+H.~Takagi and L.~Kleinrock, ``Optimal transmission ranges for randomly
+  distributed packet radio terminals,'' {\em Communications, IEEE Transactions
+  on}, vol.~32, no.~3, pp.~246--257, 1984.
+
+\bibitem{RR2000}
+R.~Ramanathan and R.~Rosales-Hain, ``Topology control of multihop wireless
+  networks using transmit power adjustment,'' in {\em INFOCOM 2000. Nineteenth
+  Annual Joint Conference of the IEEE Computer and Communications Societies.
+  Proceedings. IEEE}, vol.~2, pp.~404--413, IEEE, 2000.
+
+\bibitem{RM1999}
+V.~Rodoplu and T.~H. Meng, ``Minimum energy mobile wireless networks,'' {\em
+  Selected Areas in Communications, IEEE Journal on}, vol.~17, no.~8,
+  pp.~1333--1344, 1999.
+
+\bibitem{BC2003}
+S.~Bandyopadhyay and E.~J. Coyle, ``An energy efficient hierarchical clustering
+  algorithm for wireless sensor networks,'' in {\em INFOCOM 2003. Twenty-Second
+  Annual Joint Conference of the IEEE Computer and Communications. IEEE
+  Societies}, vol.~3, pp.~1713--1723, IEEE, 2003.
+
+\bibitem{LBASH2002}
+C.~Lu, B.~M. Blum, T.~F. Abdelzaher, J.~A. Stankovic, and T.~He, ``Rap: A
+  real-time communication architecture for large-scale wireless sensor
+  networks,'' in {\em Real-Time and Embedded Technology and Applications
+  Symposium, 2002. Proceedings. Eighth IEEE}, pp.~55--66, IEEE, 2002.
+
+\bibitem{SCIMSWC2001}
+E.~Shih, S.-H. Cho, N.~Ickes, R.~Min, A.~Sinha, A.~Wang, and A.~Chandrakasan,
+  ``Physical layer driven protocol and algorithm design for energy-efficient
+  wireless sensor networks,'' in {\em Proceedings of the 7th annual
+  international conference on Mobile computing and networking}, pp.~272--287,
+  ACM, 2001.
+
+\bibitem{HSLA2003}
+T.~He, J.~A. Stankovic, C.~Lu, and T.~Abdelzaher, ``Speed: A stateless protocol
+  for real-time communication in sensor networks,'' in {\em Distributed
+  Computing Systems, 2003. Proceedings. 23rd International Conference on},
+  pp.~46--55, IEEE, 2003.
+
+\bibitem{YHE2002}
+W.~Ye, J.~Heidemann, and D.~Estrin, ``An energy-efficient mac protocol for
+  wireless sensor networks,'' in {\em INFOCOM 2002. Twenty-First Annual Joint
+  Conference of the IEEE Computer and Communications Societies. Proceedings.
+  IEEE}, vol.~3, pp.~1567--1576, IEEE, 2002.
+
+\bibitem{SWR1998}
+S.~Singh, M.~Woo, and C.~S. Raghavendra, ``Power-aware routing in mobile ad hoc
+  networks,'' in {\em Proceedings of the 4th annual ACM/IEEE international
+  conference on Mobile computing and networking}, pp.~181--190, ACM, 1998.
+
+\bibitem{CT2000}
+J.-H. Chang and L.~Tassiulas, ``Energy conserving routing in wireless ad-hoc
+  networks,'' in {\em INFOCOM 2000. Nineteenth Annual Joint Conference of the
+  IEEE Computer and Communications Societies. Proceedings. IEEE}, vol.~1,
+  pp.~22--31, IEEE, 2000.
+
+\bibitem{ENR2006}
+C.~Efthymiou, S.~Nikoletseas, and J.~Rolim, ``Energy balanced data propagation
+  in wireless sensor networks,'' {\em Wireless Networks}, vol.~12, no.~6,
+  pp.~691--707, 2006.
+
+\bibitem{CGC2009}
+M.~Cheng, X.~Gong, and L.~Cai, ``Joint routing and link rate allocation under
+  bandwidth and energy constraints in sensor networks,'' {\em IEEE Trans.
+  Wireless Communications}, vol.~8, pp.~3770--3779, 2009.
+
+\bibitem{CXLX2011}
+M.~Cheng, X.~Gong, L.~Cai, and X.~Jia, ``Cross-layer throughput optimization
+  with power control in sensor networks,'' {\em IEEE Transactions on Vehicular
+  Technology}, vol.~60, pp.~3300--3308, 2011.
+
+\bibitem{KK2005}
+V.~Kawadia and P.~R. Kumar, ``Principles and protocols for power control in ad
+  hoc networks,'' {\em IEEE Journal on Selected Areas in Communications},
+  vol.~23, pp.~76--88, 2005.
+
+\bibitem{BC2002}
+M.~Bhardwaj and A.~Chandrakasan, ``Bounding the lifetime of sensor networks via
+  optimal role assignments,'' in {\em Proc. INFOCOM}, vol.~3, pp.~1587--1596,
+  2002.
+
+\bibitem{ZS2003}
+G.~Zussman and A.~Segall, ``Energy efficient routing in ad hoc disaster
+  recovery networks,'' {\em Ad Hoc Networks}, vol.~1, no.~4, pp.~405--421,
+  2003.
+
+\bibitem{HSSM2005}
+Y.~T. Hou, Y.~Shi, H.~D. Sherali, and S.~F. Midkiff, ``Prolonging sensor
+  network lifetime with energy provisioning and relay node placement.,'' in
+  {\em SECON}, vol.~5, pp.~295--304, 2005.
+
+\bibitem{CT2004}
+J.~H. Chang and L.~Tassiulas, ``Maximum lifetime routing in wireless sensor
+  networks,'' {\em IEEE/ACM Trans. Netw.}, vol.~12, pp.~609--619, 2004.
+
+\bibitem{VEMPBG2007}
+J.~Vales-Alonso, E.~Egea-Lopez, A.~Martinez-Sala, P.~Pavon-Marino, M.~V.
+  Bueno-Delgado, and J.~Garcia-Haro, ``Performance evaluation of {MAC}
+  transmission power control in wireless sensor networks,'' {\em Computer
+  Networks}, vol.~51, pp.~1483--1498, 2007.
+
+\bibitem{MDH2007}
+M.~Mallinson, P.~Drane, and S.~Hussain, ``Discrete radio power level
+  consumption model in wireless sensor networks,'' in {\em Proc. MASS},
+  pp.~1--6, 2007.
+
+\bibitem{SBK2005}
+B.~Sundararaman, U.~Buy, and A.~D. Kshemkalyani, ``Clock synchronization for
+  wireless sensor networks: A survey,'' {\em Ad Hoc Networks (Elsevier},
+  vol.~3, pp.~281--323, 2005.
+
+\bibitem{RBIGWES2005}
+M.~Rahimi, R.~Baer, O.~Iroezi, J.~Garcia, J.~Warrior, D.~Estrin, and
+  M.Srivastava, ``Cyclops: in situ image sensing and interpretation in wireless
+  sensor networks,'' in {\em Proc. SenSys}, pp.~192--204, 2005.
+
+\bibitem{BGT2009}
+K.~Bicakci, H.~Gultekin, and B.~Tavli, ``The impact of one-time energy costs on
+  network lifetime in wireless sensor networks,'' {\em Communications Letters,
+  IEEE}, vol.~13, no.~12, pp.~905--907, 2009.
+
+\bibitem{ACDP2009}
+G.~Anastasi, M.~Conti, M.~D. Francesco, and A.~Passarella, ``Energy
+  conservation in wireless sensor networks: A survey,'' {\em Ad Hoc Networks},
+  vol.~7, pp.~537--568, 2009.
+
+\bibitem{AY2005}
+K.~Akkaya and M.~Younis, ``A survey on routing protocols for wireless sensor
+  networks,'' {\em Ad Hoc Networks}, vol.~3, pp.~325--349, 2005.
+
+\bibitem{HCB2002}
+W.~Heinzelman, A.~Chandrakasan, and H.~Balakrishnan, ``An application specific
+  protocol architecture for wireless microsensor networks,'' {\em IEEE Trans.
+  Wireless Communications}, vol.~1, pp.~660--670, 2002.
+
+\bibitem{ABCCEGGGHK2004}
+T.~Abdelzaher, B.~Blum, Q.~Cao, Y.~Chen, D.~Evans, J.~George, S.~George, L.~Gu,
+  T.~He, S.~Krishnamurthy, {\em et~al.}, ``Envirotrack: Towards an
+  environmental computing paradigm for distributed sensor networks,'' in {\em
+  Distributed Computing Systems, 2004. Proceedings. 24th International
+  Conference on}, pp.~582--589, IEEE, 2004.
+
+\bibitem{DEA2006}
+I.~Demirkol, C.~Ersoy, and F.~Alagoz, ``{MAC} protocols for wireless sensor
+  networks: a survey,'' {\em IEEE Communications Magazine}, vol.~44, pp.~115 --
+  121, 2006.
+
+\bibitem{KMD2007}
+I.~Khemapech, A.~Miller, and I.~Duncan, ``A survey of transmission power
+  control in wireless sensor networks,'' in {\em Proc. PGNet}, pp.~15--20,
+  2007.
+
+\bibitem{CDVFWWCC2005}
+B.~H. Calhoun, D.~C. Daly, N.~Verma, D.~F. Finchelstein, D.~D. Wentzloff,
+  A.~Wang, S.-H. Cho, and A.~P. Chandrakasan, ``Design considerations for
+  ultra-low energy wireless microsensor nodes,'' {\em Computers, IEEE
+  Transactions on}, vol.~54, no.~6, pp.~727--740, 2005.
+
+\bibitem{SL2001}
+I.~Stojmenovic and X.~Lin, ``Power-aware localized routing in wireless
+  networks,'' {\em Parallel and Distributed Systems, IEEE Transactions on},
+  vol.~12, no.~11, pp.~1122--1133, 2001.
+
+\bibitem{WS2002}
+A.~D. Wood and J.~A. Stankovic, ``Denial of service in sensor networks,'' {\em
+  Computer}, vol.~35, no.~10, pp.~54--62, 2002.
+
+\bibitem{PSW2004}
+A.~Perrig, J.~Stankovic, and D.~Wagner, ``Security in wireless sensor
+  networks,'' {\em Communications of the ACM}, vol.~47, no.~6, pp.~53--57,
+  2004.
+
+\bibitem{CP2003}
+H.~Chan and A.~Perrig, ``Security and privacy in sensor networks,'' {\em
+  Computer}, vol.~36, no.~10, pp.~103--105, 2003.
+
+\bibitem{GZBBT2010}
+M.~Guerrero-Zapata, R.~Zilan, J.~M. Barcel{\'o}-Ordinas, K.~Bicakci, and
+  B.~Tavli, ``The future of security in wireless multimedia sensor networks,''
+  {\em Telecommunication Systems}, vol.~45, no.~1, pp.~77--91, 2010.
+
+\bibitem{GBCT2006}
+C.~Gamage, K.~Bicakci, B.~Crispo, and A.~S. Tanenbaum, ``Security for the
+  mythical air-dropped sensor network,'' in {\em Computers and Communications,
+  2006. ISCC'06. Proceedings. 11th IEEE Symposium on}, pp.~41--47, IEEE, 2006.
+
+\bibitem{BBT2011}
+K.~Bicakci, I.~E. Bagci, and B.~Tavli, ``Lifetime bounds of wireless sensor
+  networks preserving perfect sink unobservability,'' {\em Communications
+  Letters, IEEE}, vol.~15, no.~2, pp.~205--207, 2011.
+
+\bibitem{JPPQ2003}
+K.~Jain, J.~Padhye, V.~N. Padmanabhan, and L.~Qiu, ``Impact of interference on
+  multi-hop wireless network performance,'' in {\em Proc. ACM Annual
+  International Conference on Mobile Computing and Networking (MobiCom)},
+  pp.~66--80, 2003.
+
+\bibitem{LBDLM2001}
+J.~Li, C.~Blake, D.~S. De~Couto, H.~I. Lee, and R.~Morris, ``Capacity of ad hoc
+  wireless networks,'' in {\em Proc. ACM Annual International Conference on
+  Mobile Computing and Networking (MobiCom)}, pp.~61--69, 2001.
+
+\bibitem{WKJLW2012}
+W.~Liu, K.~Lu, J.~Wang, L.~Huang, and D.~Wu, ``On the throughput capacity of
+  wireless sensor networks with mobile relays,'' {\em IEEE Transactions on
+  Vehicular Technology}, vol.~61, pp.~1801--1809, 2012.
+
+\bibitem{JGCW2006}
+J.~Tang, G.~Xue, C.~Chandler, and W.~Zhang, ``Link scheduling with power
+  control for throughput enhancement in multihop wireless networks,'' {\em IEEE
+  Transactions on Vehicular Technology}, vol.~55, pp.~733--742, 2006.
+
+\bibitem{BKH2003}
+B.~Hull, K.~Jamieson, and H.~Balakrishnan, ``Bandwidth management in wireless
+  sensor networks,'' in {\em Proc. ACM Conference on Embedded Networked Sensor
+  Systems (SenSys)}, pp.~306--307, 2003.
+
+\bibitem{RGGP2006}
+S.~Rangwala, R.~Gummadi, R.~Govindan, and K.~Psounis, ``Interference-aware fair
+  rate control in wireless sensor networks,'' {\em ACM SIGCOMM Computer
+  Communications Review}, vol.~36, pp.~63--74, 2006.
+
+\bibitem{NMR2010}
+N.~Kumar, M.~Kumar, and R.~B. Patel, ``Optimized bandwidth utilization for real
+  time applications in wireless sensor networks,'' {\em International Journal
+  of Computer Applications}, vol.~1, pp.~92--97, 2010.
+
+\bibitem{SGJ2008}
+M.~Saxena, P.~Gupta, and B.~N. Jain, ``Experimental analysis of rssi-based
+  location estimation in wireless sensor networks,'' in {\em Proc. COMSWARE},
+  pp.~503--510, 2008.
+
+\bibitem{JLH2010}
+J.-R. Jiang, C.-M. Lin, and Y.-J. Hsu, ``Localization with rotatable
+  directional antennas for wireless sensor networks,'' in {\em Proc. ICPPW},
+  pp.~542 --548, 2010.
+
+\bibitem{SH2011}
+P.~K. Sahoo and I.-S. Hwang, ``Collaborative localization algorithms for
+  wireless sensor networks with reduced localization error,'' {\em Sensors},
+  vol.~11, pp.~9989--10009, 2011.
+
+\bibitem{KLMM2006}
+B.~Kusy, A.~Ledeczi, M.~Maroti, and L.~Meertens, ``Node density independent
+  localization,'' in {\em Proc. IPSN}, pp.~441--448, 2006.
+
+\bibitem{DEL2001}
+L.~Doherty, L.~El~Ghaoui, {\em et~al.}, ``Convex position estimation in
+  wireless sensor networks,'' in {\em INFOCOM 2001. Twentieth Annual Joint
+  Conference of the IEEE Computer and Communications Societies. Proceedings.
+  IEEE}, vol.~3, pp.~1655--1663, IEEE, 2001.
+
+\bibitem{PAKHMC2005}
+N.~Patwari, J.~N. Ash, S.~Kyperountas, A.~O. Hero~III, R.~L. Moses, and N.~S.
+  Correal, ``Locating the nodes: cooperative localization in wireless sensor
+  networks,'' {\em Signal Processing Magazine, IEEE}, vol.~22, no.~4,
+  pp.~54--69, 2005.
+
+\bibitem{MP2002}
+R.~L. Moses and R.~Patterson, ``Self-calibration of sensor networks,'' in {\em
+  AeroSense 2002}, pp.~108--119, International Society for Optics and
+  Photonics, 2002.
+
+\bibitem{IFMW2005}
+A.~T. Ihler, J.~W. Fisher~III, R.~L. Moses, and A.~S. Willsky, ``Nonparametric
+  belief propagation for self-localization of sensor networks,'' {\em Selected
+  Areas in Communications, IEEE Journal on}, vol.~23, no.~4, pp.~809--819,
+  2005.
+
+\bibitem{UJM2007}
+U.~B. Desai, B.~Jain, and S.~Merchant, ``Wireless sensor networks: Technology
+  roadmap,'' Tech. Rep. Yeni Delhi, Hindistan Bilgi ve Ýletiþim Bakanlýðý,
+  2007.
+
+\bibitem{S2004}
+J.~A. Stankovic, ``Research challenges for wireless sensor networks,'' {\em
+  SIGBED Rev.}, vol.~1, no.~2, pp.~9--12, 2004.
+
+\bibitem{WY2007}
+Q.~Wang and W.~Yang, ``Energy consumption model for power management in
+  wireless sensor networks,'' in {\em Proc. SECON}, pp.~142--151, 2007.
+
+\bibitem{KYZ2008}
+A.~Konstantinidis, K.~Yang, and Q.~Zhang, ``An evolutionary algorithm to a
+  multi-objective deployment and power assignment problem in wireless sensor
+  networks,'' in {\em Proc. GLOBECOM}, pp.~1--6, 2008.
+
+\bibitem{MRD2009}
+R.~Moraes, C.~Ribeiro, and C.~Duhamel, ``Optimal solutions for fault-tolerant
+  topology control in wireless ad hoc networks,'' {\em IEEE Trans. Wireless
+  Communications}, vol.~8, pp.~5970--5981, 2009.
+
+\bibitem{KB2010}
+G.~Kalpana and T.~Bhuvaneswari, ``Distributed power control for energy
+  efficiency in wireless sensor network,'' {\em European Journal of Scientific
+  Research}, vol.~48, pp.~273--280, 2010.
+
+\bibitem{KKWZR2003}
+M.~Kubisch, H.~Karl, A.~Wolisz, L.~Zhong, and J.~Rabaey, ``Distributed
+  algorithms for transmission power control in wireless sensor networks,'' in
+  {\em Proc. WCNC}, vol.~1, pp.~558--563, 2003.
+
+\bibitem{CHGQXCSA2006}
+O.~Chipara, Z.~He, G.~Xing, Q.~Chen, X.~Wang, C.~Lu, J.~Stankovic, and
+  T.~Abdelzaher, ``Real-time power-aware routing in sensor networks,'' in {\em
+  Quality of Service, 2006. IWQoS 2006. 14th IEEE International Workshop on},
+  pp.~83--92, 2006.
+
+\bibitem{LMHUK2003}
+D.~LaI, A.~Manjeshwar, F.~Herrmann, E.~Uysal-Biyikoglu, and A.~Keshavarzian,
+  ``Measurement and characterization of link quality metrics in energy
+  constrained wireless sensor networks,'' in {\em Global Telecommunications
+  Conference, 2003. GLOBECOM'03. IEEE}, vol.~1, pp.~446--452, IEEE, 2003.
+
+\bibitem{RMC2007}
+H.~Ren, M.~Meng, and C.~Cheung, ``Experimental evaluation of on-body
+  transmission characteristics for wireless biosensors,'' in {\em Integration
+  Technology, 2007. ICIT'07. IEEE International Conference on}, pp.~745--750,
+  IEEE, 2007.
+
+\bibitem{LW2006}
+J.~C. Lim and K.~D. Wong, ``Exploring possibilities for rss-adaptive power
+  control in mica2-based wireless sensor networks,'' in {\em Control,
+  Automation, Robotics and Vision, 2006. ICARCV'06. 9th International
+  Conference on}, pp.~1--6, IEEE, 2006.
+
+\bibitem{DCL2011}
+M.~Doddavenkatappa, M.~C. Chan, and B.~Leong, ``Improving link quality by
+  exploiting channel diversity in wireless sensor networks,'' in {\em Real-Time
+  Systems Symposium (RTSS), 2011 IEEE 32nd}, pp.~159--169, IEEE, 2011.
+
+\bibitem{BKMZYBA2012}
+N.~Baccour, A.~Koubaa, L.~Mottola, M.~A. Zuniga, H.~Youssef, C.~A. Boano, and
+  M.~Alves, ``Radio link quality estimation in wireless sensor networks: a
+  survey,'' {\em ACM Transactions on Sensor Networks (TOSN)}, vol.~8, no.~4,
+  p.~34, 2012.
+
+\bibitem{SDTL2006}
+K.~Srinivasan, P.~Dutta, A.~Tavakoli, and P.~Levis, ``Understanding the causes
+  of packet delivery success and failure in dense wireless sensor networks,''
+  in {\em Proceedings of the 4th international conference on Embedded networked
+  sensor systems}, pp.~419--420, ACM, 2006.
+
+\bibitem{ZK2004}
+M.~Zuniga and B.~Krishnamachari, ``Analyzing the transitional region in low
+  power wireless links,'' in {\em Proc. SECON}, pp.~517--526, 2004.
+
+\bibitem{ZHKS2004}
+G.~Zhou, T.~He, S.~Krishnamurthy, and J.~A. Stankovic, ``Impact of radio
+  irregularity on wireless sensor networks,'' in {\em Proceedings of the 2nd
+  international conference on Mobile systems, applications, and services},
+  pp.~125--138, ACM, 2004.
+
+\bibitem{ZG2003}
+J.~Zhao and R.~Govindan, ``Understanding packet delivery performance in dense
+  wireless sensor networks,'' in {\em Proceedings of the 1st international
+  conference on Embedded networked sensor systems}, pp.~1--13, ACM, 2003.
+
+\bibitem{ZHKS2006}
+G.~Zhou, T.~He, S.~Krishnamurthy, and J.~A. Stankovic, ``Models and solutions
+  for radio irregularity in wireless sensor networks,'' {\em ACM Trans. Sen.
+  Netw.}, vol.~2, no.~2, pp.~221--262, 2006.
+
+\bibitem{CT2011}
+Y.~Chen and A.~Terzis, ``On the implications of the log-normal path loss model:
+  an efficient method to deploy and move sensor motes,'' in {\em Proceedings of
+  the 9th ACM Conference on Embedded Networked Sensor Systems}, pp.~26--39,
+  ACM, 2011.
+
+\bibitem{LZZGSH2006}
+S.~Lin, J.~Zhang, G.~Zhou, L.~Gu, T.~He, and J.~A. Stankovic, ``{ATPC}:
+  Adaptive transmission power control for wireless sensor networks,'' in {\em
+  Proc. SenSys}, pp.~223--236, 2006.
+
+\bibitem{SS2006}
+F.~Sun and M.~Shayman, ``Lifetime maximizing adaptive traffic distribution and
+  power control in wireless sensor networks,'' Tech. Rep. TR2006-12, University
+  of Maryland, ECE Dept., 2006.
+
+\bibitem{SOSUS}
+U.~S.~D. of~the Navy, ``Sound surveillance system.''
+  http://www.navy.mil/navydata/cno/n87/usw/issue\_25/sosus.htm.
+\newblock Eriþim : 14.07.2013.
+
+\bibitem{CK2003}
+C.-Y. Chong and S.~Kumar, ``Sensor networks: evolution, opportunities, and
+  challenges,'' {\em Proceedings of the IEEE}, vol.~91, no.~8, pp.~1247--1256,
+  2003.
+
+\bibitem{EGHK1999}
+D.~Estrin, R.~Govindan, J.~Heidemann, and S.~Kumar, ``Next century challenges:
+  scalable coordination in sensor networks,'' in {\em Proceedings of the 5th
+  annual ACM/IEEE international conference on Mobile computing and networking},
+  MobiCom '99, pp.~263--270, 1999.
+
+\bibitem{MICA2}
+X.~Inc., ``Mica2 motes.''
+  http://bullseye.xbow.com:81/Products/~productdetails.aspx?sid=174.
+\newblock Eriþim : 24.06.2012.
+
+\bibitem{ASSC2002}
+I.~Akyildiz, W.~Su, Y.~Sankarasubramaniam, and E.~Cayirci, ``Wireless sensor
+  networks: a survey,'' {\em Computer Networks}, vol.~38, no.~4, pp.~393 --
+  422, 2002.
+
+\bibitem{AK2004}
+I.~F. Akyildiz and I.~H. Kasimoglu, ``Wireless sensor and actor networks:
+  research challenges,'' {\em Ad Hoc Networks}, vol.~2, no.~4, pp.~351 -- 367,
+  2004.
+
+\bibitem{chinneck2004}
+J.~W. Chinneck, ``Practical optimization: a gentle introduction.'' http://www.
+  sce. carleton. ca/faculty/chinneck/po. html.
+\newblock Eriþim : 26.11.2011.
+
+\bibitem{GAMS}
+GAMS, ``{GAMS} homepage.'' http://www.gams.com.
+\newblock Eriþim : 25.08.2011.
+
+\bibitem{GAMS-solvers}
+G.~Solvers, ``{GAMS} solvers.'' http://www.gams.com/solvers/.
+\newblock Eriþim : 26.08.2011.
+
+\bibitem{GAMS-UG}
+S.~J. Wright, ``{GAMS} : A user's guide.''
+  http://pages.cs.wisc.edu/~swright/635/docs/GAMSUsersGuide.pdf.
+\newblock Eriþim : 10.09.2011.
+
+\bibitem{MATLAB}
+MathWorks, ``{MathWorks} matlab.'' https://www.mathworks.com/products/\\matlab.
+\newblock Eriþim : 21.12.2011.
+
+\bibitem{MATLAB-Viki}
+Vikipedi, ``{MATLAB}.'' http://tr.wikipedia.org/wiki/MATLAB.
+\newblock Eriþim : 03.01.2012.
+
+\bibitem{LND2012}
+Wikipedia, ``Log-normal daðýlým.''
+  http://tr.wikipedia.org/wiki/Log-normal\_da\%C4\%9F\%C4\%B1l\%C4\%B1m.
+\newblock Eriþim : 11.10.2012.
+
+\bibitem{CC2420}
+T.~Instruments, ``Ti cc2420 datasheet.'' http://www.ti.com/product/cc2420.
+\newblock Eriþim : 07.04.2012.
+
+\end{thebibliography}
